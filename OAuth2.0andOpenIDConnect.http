@@ -1,0 +1,6 @@
+@OAuth2._0andOpenIDConnect_HostAddress = http://localhost:5289
+
+GET {{OAuth2._0andOpenIDConnect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
